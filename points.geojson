@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88061,
+          43.60485
+        ]
+      },
+      "properties": {
+        "marker-color": "#188ee7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gare de Montpellier Saint Roch",
+        "address": "Rue de Maguelone",
+        "objet": "Gare ferroviaire"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9467310905456543,
+          43.57527662759245
+        ]
+      }
+    }
+  ]
+}
