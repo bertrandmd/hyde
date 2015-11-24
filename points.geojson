@@ -13,7 +13,7 @@
       "properties": {
         "marker-color": "#188ee7",
         "marker-size": "medium",
-        "marker-symbol": "",
+         "marker-symbol": "bus",
         "name": "Gare de Montpellier Saint Roch",
         "address": "Rue de Maguelone",
         "objet": "Gare ferroviaire"
