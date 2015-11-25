@@ -1,0 +1,30 @@
+{
+                type: 'FeatureCollection',
+                features: [{
+                    type: 'Feature',
+                    geometry: {
+                        coordinates: [-77, 37.9],
+                        type: 'Point'
+                    },
+                    properties: {
+                        'marker-color': '#000',
+                        'marker-symbol': 'star-stroked',
+                        'marker-size': 'large',
+                        title: 'Example Marker',
+                        description: 'This is a single marker.'
+                    }
+                }, {
+                    type: 'Feature',
+                    geometry: {
+                        coordinates: [-77.1, 37.8],
+                        type: 'Point'
+                    },
+                    properties: {
+                        'marker-color': '#f00',
+                        'marker-symbol': 'star',
+                        'marker-size': 'small',
+                        title: 'Example Marker',
+                        description: 'This is a single marker.'
+                    }
+                }]
+            }
